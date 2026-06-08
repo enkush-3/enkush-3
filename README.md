@@ -4,9 +4,9 @@
 ##  Connect with me
 - 💼 Email: [enkush.leymo@gmail.com](mailto:enkush.leymo@gmail.com)
 - 💻 GitHub: [@enkush-3](https://github.com/enkush-3)
-- 💡 LeetCode: [Профайл](https://leetcode.com/enkush_3)
-- 👤 Facebook: [Профайл](https://facebook.com/LeyM1ion)
-- 📸 Instagram: [@your-username](https://instagram.com/enkush_3)
+- 💡 LeetCode: [Enkush_3](https://leetcode.com/enkush_3)
+- 👤 Facebook: [М.Энхбаяр](https://facebook.com/LeyM1ion)
+- 📸 Instagram: [@Enkush_3](https://instagram.com/enkush_3)
 
 ## 🛠 Tech Stack
 ### Frameworks & Libraries

@@ -2,7 +2,8 @@
 ###  Full-Stack Developer | Algorithm Enthusiast | CS Student
 
 ##  Connect with me
-- 💼 Email: [enkush.leymo@gmail.com](mailto:enkush.leymo@gmail.com)
+- 💼 Email-1: [enkush.leymo@gmail.com](mailto:enkush.leymo@gmail.com)
+- 💼 Email-2: [menhbayar2538@gmail.com](mailto:menhbayar2538@gmail.com)
 - 💻 GitHub: [@enkush-3](https://github.com/enkush-3)
 - 💡 LeetCode: [Enkush_3](https://leetcode.com/enkush_3)
 - 👤 Facebook: [М.Энхбаяр](https://facebook.com/LeyM1ion)
